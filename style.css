@@ -1,0 +1,42 @@
+.profile_pic {
+    border-radius: 50%;
+}
+
+
+.profile-banner {
+    background-color: #00a2ff;
+}
+
+.main-banner {
+    background-color: #3169F5;
+}
+
+.section-title {
+    font-weight: bold;
+    text-align: center;
+    color: #00a2ff;;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.header {
+    font-weight: bold;
+    color: #00a2ff;;
+}
+
+.carousel-container {
+    border: 2px solid #dee2e6;
+}
+
+.contact-text {
+    text-align: center;
+}
+
+/* 
+.carousel-control-next, .carousel-control-prev {
+    background-color: #dee2e6;
+} */
